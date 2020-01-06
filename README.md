@@ -9,4 +9,4 @@ The script requieres Pyhton 3 and the request package.
 
  'python3 find_meteors.py'
 
-ffffswdfsd
+You have to install pipenv to use the script
